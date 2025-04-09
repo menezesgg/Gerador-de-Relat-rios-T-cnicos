@@ -1,4 +1,3 @@
-Perfeito! Aqui está o conteúdo todo em **Markdown**, já formatado com estilo para o seu `README.md` no GitHub:
 
 ```markdown
 # 🛠️ Gerador de Relatórios Técnicos (RAT) para Escolas
