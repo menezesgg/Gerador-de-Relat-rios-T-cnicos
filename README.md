@@ -79,10 +79,8 @@ Quantidade de Switches para instalar: 3
 
 ### 📌 Autor
 
-**Alexandre**  
-👨‍💻 Automatizando processos desde o segundo dia de trabalho  
+**Alexandre Menezes Gomes**  
 📍 Goiânia, GO  
-[Seu GitHub ou LinkedIn aqui se quiser divulgar]
 
 ---
 
