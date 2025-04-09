@@ -94,5 +94,3 @@ Pull requests são bem-vindos. Sinta-se livre para sugerir melhorias ou adaptar 
 Este projeto está licenciado sob a **MIT License**. Veja o arquivo `LICENSE` para mais detalhes.
 
 ```
-
-Se quiser que eu gere o script `gerar_documentos.py` completo com a barra de progresso também estilizado, é só pedir! Deseja?
